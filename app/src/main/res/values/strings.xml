@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="btnVolver">Volver</string>
+    <string name="Masculino">Masculino</string>
+    <string name="Femenino">Femenino</string>
+
+    <string name="terminos">Aceptar terminos de privacidad</string>
+    <string name="info_Name">Nombre:</string>
+    <string name="info_password">Password:</string>
+    <string name="InfoNombre">nombreEnviado</string>
+    <string name="infoContra">ContraEnviado</string>
+    <string name="VolverInicio">Volver</string>
+    <string name="btnApi">Api</string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="btnConsultar">Consultar</string>
+    <string name="btnActualizar">Actualizar</string>
+    <string name="btnEliminar">Eliminar</string>
+
+    <string name="enviar">Enviar</string>
+    <string name="body">Mensaje</string>
+    <string name="userid">ID</string>
+    <string name="title">Titulo</string>
+</resources>
